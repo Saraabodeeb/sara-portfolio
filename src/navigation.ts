@@ -15,7 +15,7 @@ export const headerData = {
       href: getPermalink('/#about'),
     },
   ],
-  actions: [{ text: 'Contact Me', href: 'mailto:example@email.com', target: '_blank' }], 
+  actions: [{ text: 'Contact Me', href: 'mailto:saraabodeeb75@gmail.com', target: '_blank' }], 
 };
 
 export const footerData = {
@@ -23,7 +23,7 @@ export const footerData = {
   secondaryLinks: [],
   socialLinks: [
     { ariaLabel: 'LinkedIn', icon: 'tabler:brand-linkedin', href: 'https://www.linkedin.com/in/sara-abodeeb/' },
-    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/sara-abodeeb' },
+    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/Saraabodeeb' },
   ],
   footNote: `
     Made by <a class="text-blue-600 underline dark:text-muted" href="https://www.linkedin.com/in/sara-abodeeb/">Sara Abodeeb</a> · All rights reserved.
